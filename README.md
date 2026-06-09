@@ -148,5 +148,6 @@ Plain-language definitions for the broader terms. Use these directly with custom
 
 ## Resources
 
+- [STT latency benchmark PDF](docs/stt-latency-six-engine-benchmark-portrait.pdf)
 - [Telnyx STT docs](https://developers.telnyx.com/docs/voice/programmable-voice/stt-standalone)
 - [Telnyx Portal](https://portal.telnyx.com)
